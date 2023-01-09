@@ -1,0 +1,95 @@
+/*********************07/05/2018 01:43:23***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 08:51:46***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 08:52:10***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 08:52:11***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 08:52:12***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 08:54:15***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 08:54:16***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************07/05/2018 16:15:00***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************20/05/2018 16:26:55***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************20/05/2018 16:27:16***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_1(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************23/05/2018 17:32:25***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 10:17:18***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 16:06:55***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 16:18:32***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 18:15:30***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 18:15:53***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 19:13:14***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************24/05/2018 19:17:55***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/
+/*********************25/05/2018 14:16:41***************************/
+erreurErure ne peux pas pu trouver
+erreur typeException
+detailVoid linkLabel7_LinkClicked_2(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)class:gestion_stock.GESTION_STOCK
+/***********************name spaceSystem/*------------------*******************/

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTEST xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TEST>
+    <Prix_achat>88</Prix_achat>
+    <Quantité_achat>63</Quantité_achat>
+    <Fourniseur>sd</Fourniseur>
+    <Designation>55</Designation>
+    <Date>2018-05-26T14:10:18.5838647+00:00</Date>
+  </TEST>
+  <TEST>
+    <Prix_achat>8</Prix_achat>
+    <Quantité_achat>5</Quantité_achat>
+    <Fourniseur>sd</Fourniseur>
+    <Designation>d55</Designation>
+    <Date>2018-05-26T14:10:18.5838647+00:00</Date>
+  </TEST>
+</ArrayOfTEST>
